@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Chocolate Fudge Brownie",
+      "calories": 425,
+      "type": "frozen desert",
+      "ingredients": [
+        "milk",
+        "cocoa",
+        "sugar"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Bannana Strawberry Icecream",
+      "calories": 425,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "wild strawberries",
+        "bannana",
+        "sugar"
+      ],
+      "image": "strawberry-sprinkle.svg"
     }
   ]
 }
